@@ -2,10 +2,11 @@ import React from "react";
 import { GitHub } from "@material-ui/icons";
 import InstagramIcon from '@material-ui/icons/Instagram';
 import FacebookIcon from '@material-ui/icons/Facebook';
-import {Box, Typography, Grid} from '@material-ui/core';
+import { Typography, Grid} from '@material-ui/core';
 import './Footer.css';
 import { useSelector } from "react-redux";
 import { TokenState } from "../../../store/tokens/tokensReducer";
+import { Box } from "@mui/material";
 
 
 function Footer() {
