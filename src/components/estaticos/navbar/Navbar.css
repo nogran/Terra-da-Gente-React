@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-.back {
+
+/* .back {
     background-image: url('/public/img/kfj.png') !important;
     background-repeat: no-repeat ;
     background-size: cover;
-}
+} */
 
-.font {
-    font-family: 'Roboto', sans-serif!important;
-}
 
 .titulo {
     font-weight: bold;
